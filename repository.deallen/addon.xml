@@ -2,7 +2,7 @@
 <addon id="repository.deallen" name="DeAllen Repository" version="0.0.1" provider-name="DeAllen">
 	<extension point="xbmc.addon.repository" name="deallen Repository">
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<info compressed="false">https://raw.githubusercontent.com/Lhse44/repository.deallen/master/repository.deallen/addon.xml</info>
 			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
 		</dir>
